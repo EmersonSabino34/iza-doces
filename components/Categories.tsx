@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 const categories = [
+  
   { title: "Bolos", description: "Aprenda massas, recheios, montagem, cobertura e técnicas para criar bolos incríveis.", image: "Foto de bolo" },
   { title: "Doces", description: "Descubra receitas e técnicas para preparar doces deliciosos e irresistíveis.", image: "Foto de doces" },
   { title: "Salgados", description: "Aprenda preparos saborosos e práticos para sua família, eventos ou para vender.", image: "Foto de salgados" },
