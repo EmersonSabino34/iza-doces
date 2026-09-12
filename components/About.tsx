@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-
 export default function About() {
   return <section id="sobre" className="bg-white py-24">
     <div className="mx-auto grid max-w-7xl items-center gap-16 px-5 lg:grid-cols-2">
