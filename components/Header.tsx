@@ -3,7 +3,6 @@
 import { useState } from "react";
 import Link from "next/link";
 
-
 const links = [
 
   { label: "Início", href: "/" },
